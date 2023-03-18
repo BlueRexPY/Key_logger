@@ -1,2 +1,2 @@
 # Key_logger
-Программа для записи всех нажатий кнопок на клавиатуре
+Program to record all button presses on the keyboard
